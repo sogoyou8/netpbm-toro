@@ -1,0 +1,4 @@
+appel de scan à multiple reprise = parcours du fichier en entier
+étape 1 : parcourir le fichier
+étape 2 : le mettre dans un string 
+etape 3 : remplacer tout les scans dans le fichier par des segments du string.
